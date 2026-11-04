@@ -1,8 +1,8 @@
 #### PRIMERA EJECUCIÓN
 
-<img width="416" height="52" alt="image" src="https://github.com/user-attachments/assets/3650b844-ef7d-4a83-b323-6bad241913ac" />
+<img width="417" height="51" alt="image" src="https://github.com/user-attachments/assets/c2c57db2-57f8-4d9d-8956-0eb43ee829e9" />
 
 
 #### SEGUNDA EJECICIÓN
 
-<img width="398" height="50" alt="image" src="https://github.com/user-attachments/assets/19e5ed49-a461-47b7-b192-d8db779169bf" />
+<img width="367" height="51" alt="image" src="https://github.com/user-attachments/assets/9aea32af-c4f2-4468-85f0-b7cefc6c517b" />
