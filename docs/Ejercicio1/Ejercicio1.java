@@ -2,7 +2,7 @@ import java.io.File;
 import java.io.IOException;
 public class Ejercicio1 {
     public static void main(String[] args) {
-        File archivo = new File("archivo.txt");
+        File archivo = new File("curso.txt");
         
         try{
             if (archivo.createNewFile()) {
